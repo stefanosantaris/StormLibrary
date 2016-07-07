@@ -1,0 +1,6 @@
+[submodule "CDVCOpenStack"]
+	path = CDVCOpenStack
+	url = git@github.com:stefanosantaris/CDVCOpenStack.git
+[submodule "MediaStormsFlink"]
+	path = MediaStormsFlink
+	url = git@github.com:stefanosantaris/MediaStormsFlink.git
